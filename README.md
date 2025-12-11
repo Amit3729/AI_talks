@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-https://github.com/Amit3729/AI_talks/assets/123456789/xxx.gif
+
 
 > A beautiful, fast, fully local RAG app that lets you **talk to your documents** using Google's Gemini model — no Pinecone, no LangChain, no data leaving your machine.
 
